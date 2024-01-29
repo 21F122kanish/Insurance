@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6b21224.css",
-    "main.js": "/static/js/main.79294b75.js",
+    "main.css": "/static/css/main.2c30108d.css",
+    "main.js": "/static/js/main.6b58d8e8.js",
     "static/media/video2.mp4": "/static/media/video2.78352d7264445d6935eb.mp4",
+    "static/media/bg-all-1.jpg": "/static/media/bg-all-1.ac0e259a6ceb8b7a3fee.jpg",
     "static/media/landing3.jpg": "/static/media/landing3.d93a415eae8cf53d4cb6.jpg",
+    "static/media/card1.jpg": "/static/media/card1.af867cf941d9655e3324.jpg",
+    "static/media/card2.jpg": "/static/media/card2.7dfd9484ba78c0d44161.jpg",
+    "static/media/card3.jpg": "/static/media/card3.24a13d890721d2a3e96d.jpg",
     "static/media/landing1.jpg": "/static/media/landing1.09c6a5ed1ff7f5bbb062.jpg",
+    "static/media/bg-all-2.jpg": "/static/media/bg-all-2.ec2d95671360cfe23fbd.jpg",
     "static/media/dark_logo.png": "/static/media/dark_logo.9827ab35d1b4bd291b3b.png",
     "static/media/white_logo.png": "/static/media/white_logo.93af27b708439f161bd3.png",
     "static/media/landing2.jpg": "/static/media/landing2.77edcc9e00a3ef1eb6b5.jpg",
+    "static/media/car-insurance.png": "/static/media/car-insurance.c745c8928de754f666c6.png",
     "index.html": "/index.html",
-    "main.f6b21224.css.map": "/static/css/main.f6b21224.css.map",
-    "main.79294b75.js.map": "/static/js/main.79294b75.js.map"
+    "main.2c30108d.css.map": "/static/css/main.2c30108d.css.map",
+    "main.6b58d8e8.js.map": "/static/js/main.6b58d8e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6b21224.css",
-    "static/js/main.79294b75.js"
+    "static/css/main.2c30108d.css",
+    "static/js/main.6b58d8e8.js"
   ]
 }
