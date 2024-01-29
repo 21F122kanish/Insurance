@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: space-between;
     background:#fff ;
-    padding: 15px 7%;  
+    padding: 15px 7%;
     transition: 0.5s;
 }
 
@@ -19,10 +19,12 @@
     text-align: center;
 }
 
-.navbar ul li{
+.navbar ul a {
    display: inline-block;
    margin: 10px 20px;
    font-size: 18px;
+   color: #000;
+   text-decoration: none;
    cursor: pointer;
 }
 
@@ -35,6 +37,11 @@
 .dark .navbar{
   background: transparent;
   color: #fff;
+  padding: 15px 7%;
+}
+
+.dark .navbar ul a{
+    color: #fff;
 }
 
 .search-box{
@@ -48,6 +55,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+button{
+    padding: 4px;
+    border: none;
+    background: #fff;
+}
+
+.dark button{
+    padding: 4px;
+    border: none;
+    color: #fff;
+    background:none;
 }
 
  

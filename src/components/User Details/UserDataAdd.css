@@ -1,0 +1,20 @@
+.userdata{
+    width: 100vw;
+    height: 100vh;
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)), url('../../assets/bg-all-2.jpg');
+    background-size: cover;
+
+}
+
+.userdata h1{
+    color: aliceblue;
+    text-align: center;
+    margin: 2% 0;
+}
+
+.userdata-body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+

@@ -1,0 +1,39 @@
+.product-addition{
+    height: 100vh;
+background: url('/src/assets/landing2.jpg');
+background-size: cover;
+color: #fff;
+text-align: center;
+}
+
+.product-addition-table{
+    background: transparent;
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    max-width: 40%;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+table td{
+    width: 35%;
+    text-align: justify;
+
+}
+
+.product-addition-btn{
+    text-align: start;
+    margin-left: 15%;
+    padding: 10px;
+}
+
+.product-addition-btn input{
+    padding: 10px;
+    border: none;
+    margin: 1%;
+    border-radius: 10px;   
+}
+
+

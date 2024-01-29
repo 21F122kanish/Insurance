@@ -1,0 +1,17 @@
+.subproduct-main{
+    background: url('../../assets/bg-all-2.jpg');
+    width: 100vw;
+    height: 100vh;
+}
+
+.subproduct-main h1{
+   text-align: center;
+   color: brown;
+   margin-top: 2%;
+   margin-bottom: 2%;
+}
+
+.sub-product{
+    display: flex;
+    justify-content: center;
+}
